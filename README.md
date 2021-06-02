@@ -8,26 +8,9 @@ If you have bcgovr installed and you use RStudio, click the 'Insert BCDevex Badg
 voter_coverage_estimate
 ============================
 
-### Usage
+### contents
 
-Describe data being used (links), and how to run. Eg:
-
-There are four core scripts that are required for the analysis, they need to be run in order:
-
--   01\_clean.R
--   02\_analysis.R
--   03\_visualize.R
--   04\_output.R
-
-#### Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-## basic example code
-```
-
-### Project Status
+BC Stats project to calculate the number of eligible voters in each Provincial Electoral District (PED). The base will be a special tabulation of the 2016 Census, with profiles of Canadian citizens aged 18+ on May 10, 2016. This profile also provides information about mobility, from which residency in British Columbia can be estimated. This 2016 data and subsequent population estimates will be then used to calculate the number of eligible voters at subsequent points in time.
 
 ### Getting Help or Reporting an Issue
 
